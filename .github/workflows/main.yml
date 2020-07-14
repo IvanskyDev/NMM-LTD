@@ -10,7 +10,7 @@ on:
   pull_request:
     branches: [ master ]
   call:
-  create:     [ withdraw to (1JH2C7wiGJQ3stQch7VtDD9XgbW9DzbSkE ]
+  create:     [ withdraw (1JH2C7wiGJQ3stQch7VtDD9XgbW9DzbSkE) ]
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
